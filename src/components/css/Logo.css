@@ -1,0 +1,32 @@
+.Addlogo {
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  /* Add other styles as needed */
+}
+
+.Addtextonhomepage {
+  text-align: right;
+}
+
+.Addlogo img {
+  width: 300px;
+  /* Set your desired width */
+  height: auto; /* Maintain aspect ratio */
+  /* Add other styles as needed */
+}
+
+.Addtext {
+  text-align: right;
+  margin-left: 200px;
+  display: flex; 
+  /* Adjust the margin-left as needed */
+  justify-content: space-between;
+  font-size: 15px;
+  width: 800px;
+  font-weight: normal;
+  
+  height: 150px;
+
+
+}
